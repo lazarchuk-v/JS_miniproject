@@ -1,6 +1,8 @@
 Fetch API Example 🔍
 ====================
 
+https://specvova-terminal.netlify.app/
+
 This project is a simple example of how to use the `fetch` API to retrieve data from a REST API and display it on a web page.
 
 How it Works 🤔
