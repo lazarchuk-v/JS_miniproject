@@ -13,4 +13,4 @@ In the second `.then` method, a `for` loop is used to iterate through each user 
 Conclusion 💡
 -------------
 
-This project is a simple example of how to use the `fetch` API to retrieve data from a REST API and display it on a web page. It demonstrates my understanding of promises, the `fetch` API, and dynamic HTML creation. I hope you find it atmospheric!
+This project is a simple example of how to use the `fetch` API to retrieve data from a REST API and display it on a web page. It demonstrates my understanding of promises, the `fetch` API, and dynamic HTML creation. I hope you find it <b>atmospheric</b>!
